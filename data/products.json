@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "title": "Elegant Black Evening Dress",
+    "creatorId": "creator1",
+    "creatorName": "Fashion House Elite",
+    "category": "dresses",
+    "gender": "women",
+    "sizes": ["XS", "S", "M", "L"],
+    "pricePerDay": 89,
+    "deposit": 200,
+    "rating": 4.8,
+    "reviewCount": 124,
+    "images": [
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1127000/pexels-photo-1127000.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "availability": true,
+    "description": "Stunning black evening dress perfect for formal events. Made with premium silk fabric.",
+    "features": ["Dry clean only", "Premium silk", "Adjustable straps", "Back zipper"],
+    "brand": "Luxury Fashion",
+    "color": "Black"
+  },
+  {
+    "id": "2",
+    "title": "Designer Floral Midi Dress",
+    "creatorId": "creator2",
+    "creatorName": "Bloom Boutique",
+    "category": "dresses",
+    "gender": "women",
+    "sizes": ["S", "M", "L", "XL"],
+    "pricePerDay": 45,
+    "deposit": 120,
+    "rating": 4.6,
+    "reviewCount": 89,
+    "images": [
+      "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1375849/pexels-photo-1375849.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "availability": true,
+    "description": "Beautiful floral midi dress perfect for spring and summer occasions.",
+    "features": ["Machine washable", "Cotton blend", "Elastic waist", "3/4 sleeves"],
+    "brand": "Bloom",
+    "color": "Floral"
+  },
+  {
+    "id": "3",
+    "title": "Classic White Button Shirt",
+    "creatorId": "creator3",
+    "creatorName": "Professional Wear Co",
+    "category": "tops",
+    "gender": "women",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "pricePerDay": 25,
+    "deposit": 75,
+    "rating": 4.5,
+    "reviewCount": 203,
+    "images": [
+      "https://images.pexels.com/photos/1040173/pexels-photo-1040173.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "availability": true,
+    "description": "Crisp white button-down shirt perfect for professional settings.",
+    "features": ["Easy care", "Cotton", "Regular fit", "Button cuffs"],
+    "brand": "Professional",
+    "color": "White"
+  },
+  {
+    "id": "4",
+    "title": "Luxury Wool Coat",
+    "creatorId": "creator1",
+    "creatorName": "Fashion House Elite",
+    "category": "outerwear",
+    "gender": "women",
+    "sizes": ["S", "M", "L"],
+    "pricePerDay": 75,
+    "deposit": 300,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "images": [
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "availability": true,
+    "description": "Premium wool coat for the colder months. Elegant and warm.",
+    "features": ["Dry clean only", "100% wool", "Lined interior", "Button closure"],
+    "brand": "Luxury Fashion",
+    "color": "Camel"
+  },
+  {
+    "id": "5",
+    "title": "Bohemian Maxi Dress",
+    "creatorId": "creator2",
+    "creatorName": "Bloom Boutique",
+    "category": "dresses",
+    "gender": "women",
+    "sizes": ["S", "M", "L"],
+    "pricePerDay": 55,
+    "deposit": 150,
+    "rating": 4.7,
+    "reviewCount": 156,
+    "images": [
+      "https://images.pexels.com/photos/1182825/pexels-photo-1182825.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "availability": true,
+    "description": "Flowing bohemian maxi dress with beautiful patterns and comfortable fit.",
+    "features": ["Machine washable", "Viscose blend", "Flowy fit", "Long sleeves"],
+    "brand": "Bloom",
+    "color": "Multi"
+  },
+  {
+    "id": "6",
+    "title": "Designer Leather Jacket",
+    "creatorId": "creator4",
+    "creatorName": "Urban Edge",
+    "category": "outerwear",
+    "gender": "unisex",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "pricePerDay": 95,
+    "deposit": 400,
+    "rating": 4.8,
+    "reviewCount": 92,
+    "images": [
+      "https://images.pexels.com/photos/1124465/pexels-photo-1124465.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "availability": true,
+    "description": "Premium leather jacket with modern cut and classic styling.",
+    "features": ["Genuine leather", "YKK zippers", "Quilted lining", "Multiple pockets"],
+    "brand": "Urban Edge",
+    "color": "Black"
+  },
+  {
+    "id": "7",
+    "title": "Vintage Denim Jacket",
+    "creatorId": "creator4",
+    "creatorName": "Urban Edge",
+    "category": "outerwear",
+    "gender": "unisex",
+    "sizes": ["S", "M", "L", "XL"],
+    "pricePerDay": 35,
+    "deposit": 100,
+    "rating": 4.4,
+    "reviewCount": 78,
+    "images": [
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "availability": true,
+    "description": "Classic vintage denim jacket with authentic wash and fit.",
+    "features": ["100% cotton", "Vintage wash", "Classic fit", "Button closure"],
+    "brand": "Urban Edge",
+    "color": "Blue"
+  },
+  {
+    "id": "8",
+    "title": "Silk Blouse",
+    "creatorId": "creator3",
+    "creatorName": "Professional Wear Co",
+    "category": "tops",
+    "gender": "women",
+    "sizes": ["XS", "S", "M", "L"],
+    "pricePerDay": 40,
+    "deposit": 120,
+    "rating": 4.6,
+    "reviewCount": 145,
+    "images": [
+      "https://images.pexels.com/photos/1040173/pexels-photo-1040173.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "availability": true,
+    "description": "Elegant silk blouse perfect for business or evening wear.",
+    "features": ["100% silk", "Dry clean only", "French seams", "Mother of pearl buttons"],
+    "brand": "Professional",
+    "color": "Cream"
+  }
+]
